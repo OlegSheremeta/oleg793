@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @oleg793
+- 👀 I’m interested in Unity, C# programming and Python
+- 🌱 I’m currently learning Swift. Later I want learn Kotlin
+- 📫 My e-mail: oleg0sher@outlook.com
